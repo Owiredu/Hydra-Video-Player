@@ -6,5 +6,5 @@ It is written in Python 3.7.
 1. Install VLC media player.
 2. Run the hydra_main.py script.
 
-# Screenshots
+# ScreenShots
 ![ScreenShot](https://i.postimg.cc/vHC4Y11w/hydra-screenshot.png)
